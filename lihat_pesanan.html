@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lihat Pesanan - Skincare Shop</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Lihat Pesanan</h1>
+        <nav>
+          <ul>
+            <li><a href="index.html">Halaman Utama</a></li>
+            <li><a href="buat_pesanan.html">Buat Pesanan</a></li>
+            <li><a href="lihat_pesanan.html">Lihat Pesanan</a></li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <h2>Data Pesanan</h2>
+        <div id="orderList">
+          <button onclick="loadOrders()">Lihat Pesanan</button>
+          <table id="orders">
+            <thead>
+              <tr>
+                <th>Nama</th>
+                <th>Email</th>
+                <th>Produk</th>
+                <th>Jumlah</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Data akan dimuat di sini -->
+            </tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

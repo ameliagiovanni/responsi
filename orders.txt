@@ -1,0 +1,5 @@
+{"Nama":"amel","Email":"2300018383@webmail.uad.ac.id","Produk":"Mousturaizer","Jumlah":"4"}
+{"Nama":"Amel","Email":"amel@gmail.com","Produk":"Serum","Jumlah":"1"}
+{"Nama":"Giovanni","Email":"agivann@email.com","Produk":"Facialwash","Jumlah":"3"}
+{"Nama":"Amel","Email":"amelia.giovanni2020@gmail.com","Produk":"Toner","Jumlah":"1"}
+{"Nama":"Manusia Purba","Email":"ayam@gmail.com","Produk":"Toner","Jumlah":"3"}
